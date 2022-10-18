@@ -1,0 +1,40 @@
+{
+  "pvz": [
+      {
+          "id": 1,
+          "name": "Peashooter",
+          "image": "https://static.wikia.nocookie.net/plantsvszombies/images/8/85/Peashooter1.png/revision/latest?cb=20180702011738",
+          "tokenId": 1
+      },
+      {
+          "id": 2,
+          "name": "Sunflower",
+          "image": "https://static.wikia.nocookie.net/plantsvszombies/images/e/e2/Sunflower1.png/revision/latest?cb=20090521221033",
+          "tokenId": 2
+      },
+      {
+          "id": 3,
+          "name": "Wall-nut",
+          "image": "https://static.wikia.nocookie.net/plantsvszombies/images/c/c0/Wall-nut1.png/revision/latest?cb=20090521221605",
+          "tokenId": 3
+      },
+      {
+          "id": 4,
+          "name": "Zombie",
+          "image": "https://static.wikia.nocookie.net/plantsvszombies/images/5/54/Zombie1.png/revision/latest?cb=20210621234058",
+          "tokenId": 4
+      },
+      {
+          "id": 5,
+          "name": "Flag Zombie",
+          "image": "https://static.wikia.nocookie.net/plantsvszombies/images/0/0d/Flag_Zombie1.png/revision/latest?cb=20130725140654",
+          "tokenId": 5
+      },
+      {
+          "id": 6,
+          "name": "Conehead Zombie",
+          "image": "https://static.wikia.nocookie.net/plantsvszombies/images/c/c2/Conehead_Zombie1.png/revision/latest?cb=20120220185549",
+          "tokenId": 6
+      }
+  ]
+}
